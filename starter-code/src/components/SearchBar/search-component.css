@@ -1,0 +1,14 @@
+.input-text {
+  width: 60vw;
+  border-radius: 0.4rem;
+  margin-bottom: 0.6rem;
+  height: 1.4rem;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0.9rem;
+}
